@@ -7,7 +7,7 @@ This directory contains several python scripts that deal with computational thin
 
 ## Installation
 
-After having python and pip installed, install the requirements with:
+After having python and pip installed, install the remaining requirements with:
 
 ```bash
   $ pip install numpy matplotlib numba
@@ -15,10 +15,10 @@ After having python and pip installed, install the requirements with:
     
 ## Usage
 
-Run a script with:
+On the Linux terminal, run a script with:
 
 ```bash
-  $ python3 script_name.py
+  $ python3 <script_name.py>
 ```
 
 
