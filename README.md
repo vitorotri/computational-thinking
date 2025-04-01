@@ -1,7 +1,7 @@
 
 # Computational Thinking
 
-This directory contains several python scripts that deal with computational thinkings problems, tackled during the courses with the same name at the University of Zürich.
+This directory contains several python scripts that deal with computational thinkings problems, tackled during the courses with the same name at the University of Zürich. Each script has its description as a comment on its beggining, right after the license terms in the file.
 
 
 
